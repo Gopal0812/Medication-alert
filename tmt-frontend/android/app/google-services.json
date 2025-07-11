@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "784125937563",
+    "project_id": "tomt-8866f",
+    "storage_bucket": "tomt-8866f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784125937563:android:14e1ac8752412a4b59033e",
+        "android_client_info": {
+          "package_name": "com.gopal_08.TMT"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8IFE6ES0qcXKv6-_U2MryK2fUusNQ-kQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
